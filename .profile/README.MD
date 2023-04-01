@@ -28,10 +28,5 @@ Bize ulaşmak için aşağıdaki kanallardan birini kullanabilirsiniz:
 
 Bizi sosyal medyada takip edin:
 
-- ![twitter-icon](https://example.com/twitter-icon.png) [Twitter](https://twitter.com/zsoftlabs)
-- ![linkedin-icon](https://example.com/linkedin-icon.png) [LinkedIn](https://www.linkedin.com/company/zsoftlabs)
-
-## 📄 Lisans
-
-Bu projenin tüm hakları ZSoft'a aittir. İzin alınmadan kullanılamaz veya dağıtılamaz.
-
+- [Twitter](https://twitter.com/zsoftlabs)
+- [LinkedIn](https://www.linkedin.com/company/zsoftlabs)
